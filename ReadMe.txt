@@ -1,3 +1,14 @@
+Concepts Used 
+Django-Restframework
+	-APIViews
+	-ViewSets
+	-ModelViewsets
+	-ModelSerializers
+	-Serializers
+	-NestedSerializers
+	-function base Views
+------------------------------------------------------------------------
+------------------------------------------------------------------------
 User Guide
 1)Create Virtualenv : virtualenv env
 2)Activate virtualenv : env\scripts\activate
